@@ -191,6 +191,7 @@ With the array builder style, you can also push parts of the snippet and then jo
 Always declare variables in **a consistent manner**, and at the top of their scope. Keeping variable declarations to _one per line is encouraged_. Comma-first, a single `var` statement, multiple `var` statements, it's all fine, just be consistent across the project, and ensure the team is on the same page.
 
 ##### Bad
+12333333333333333333333333333
 
 ```js
 var foo = 1,
